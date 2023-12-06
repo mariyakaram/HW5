@@ -1,0 +1,14 @@
+/Users/maria/Desktop/HW5/task2/bin/Debug/net7.0/task2
+/Users/maria/Desktop/HW5/task2/bin/Debug/net7.0/task2.deps.json
+/Users/maria/Desktop/HW5/task2/bin/Debug/net7.0/task2.runtimeconfig.json
+/Users/maria/Desktop/HW5/task2/bin/Debug/net7.0/task2.dll
+/Users/maria/Desktop/HW5/task2/bin/Debug/net7.0/task2.pdb
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/task2.dll
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/refint/task2.dll
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/task2.pdb
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
+/Users/maria/Desktop/HW5/task2/obj/Debug/net7.0/ref/task2.dll
